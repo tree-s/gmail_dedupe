@@ -60,4 +60,4 @@ Tag and move duplicate emails in gmail
    - Either set `testing_mode` to either `True` or `False` for your intended purpose
 
 2. **Run script**
-   -`>python .\gm_dd.py`
+   - `>python .\gm_dd.py`
