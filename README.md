@@ -21,8 +21,6 @@ Tag and move duplicate emails in gmail
    - In the Cloud Console, go to the [Google Sheets API page](https://console.cloud.google.com/apis/library/sheets.googleapis.com).
    - Click **Enable**.
 
----
-
 ## Step 2: Create OAuth 2.0 Credentials
 
 1. **Go to the Credentials page**:
@@ -51,8 +49,6 @@ Tag and move duplicate emails in gmail
 5. **Download `credentials.json`**:
    - After creating the credentials, click **Download** to save the `credentials.json` file.
    - Keep this file in a secure location, as it contains sensitive information required to authenticate your script.
-
----
 
 ## Step 3: Run script
 
